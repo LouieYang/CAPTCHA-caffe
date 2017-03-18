@@ -24,4 +24,4 @@ where ntrain denotes the size of training dataset, nval denotes the size of vali
 ![train-sample](https://github.com/LouieYang/CAPTCHA-caffe/blob/master/train-sample/train-test-image.png)
 
 # Sample Trained Model
-Sample Trained Model with 200K training set and 1k validation set could be download at [BaiduYun](http://pan.baidu.com/s/1o7NAxp4) or [GoogleDrive](https://drive.google.com/file/d/0BxvKyd83BJjYMUtQaktQcUs4VUk/view?usp=sharing).
+Sample Trained Model for 6 length captcha with 200K training set and 1k validation set could be download at [BaiduYun](http://pan.baidu.com/s/1o7NAxp4) or [GoogleDrive](https://drive.google.com/file/d/0BxvKyd83BJjYMUtQaktQcUs4VUk/view?usp=sharing).
